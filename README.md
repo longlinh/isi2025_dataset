@@ -1,6 +1,6 @@
 # ISI2025 Dataset - Landsat 8 z50
 
-Dataset for the paper: **"Collaborative Self-Training Fuzzy Clustering with Softmax Guidance for Remote Sensing Image Classification"**
+Dataset for the paper
 
 ## Regions
 
@@ -38,17 +38,6 @@ Each region folder contains:
 ## Labeling Method
 
 Region-based labeling using circular regions (radius=30 pixels) with different label ratios per site to simulate real-world collaborative learning scenarios.
-
-## Citation
-
-```bibtex
-@article{isi2025sefc,
-  title={Collaborative Self-Training Fuzzy Clustering with Softmax Guidance},
-  author={...},
-  journal={...},
-  year={2025}
-}
-```
 
 ## License
 
